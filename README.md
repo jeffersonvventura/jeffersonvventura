@@ -1,5 +1,5 @@
 <h1 align="center">Olá, sou Jefferson Ventura</h1>
-<p align="">Apaixonado pelo mundo da informática, desenvolvedor de sistemas, scripts, automações de tarefas, crawlers, bots, de forma a auxiliar o usuário final em suas tarefas rotineiras com informática. Também adoro navegar na Perícia Digital e Análise de Dados.</p>
+<p align="">Apaixonado pelo mundo da informática, desenvolvedor de sistemas, agentes de IA, scripts, automações de tarefas, crawlers, bots, de forma a auxiliar o usuário final em suas tarefas rotineiras com informática. Também adoro navegar na Perícia Digital, Análise de Dados e Inteligência Artificial.</p>
 
 <hr>
 <p align="left">
