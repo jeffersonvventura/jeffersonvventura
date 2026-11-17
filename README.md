@@ -23,9 +23,9 @@ Desenvolvo soluções completas que transformam processos complexos em ferrament
 
 ## 🧰 Ferramentas em destaque
 
-Algumas das ferramentas mais recentes que desenvolvi, já finalizadas ou ainda em desenvolvimento.
+*Algumas das ferramentas mais recentes que desenvolvi, já finalizadas ou ainda em desenvolvimento.*
 
-Todas contam com a opção de alternância entre os temas claro e escuro. As imagens apresentam apenas algumas telas demonstrativas, portanto, em determinadas capturas, a interface pode não estar sendo exibida em sua totalidade.
+Todas contam com a opção de alternância entre os *temas claro e escuro*. As imagens apresentam apenas algumas telas demonstrativas, portanto, em determinadas capturas, *a interface pode não estar sendo exibida em sua totalidade*.
 
 São projetos que refletem um trabalho contínuo de desenvolvimento, experimentação e busca por soluções tecnológicas cada vez mais funcionais e intuitivas.
 
