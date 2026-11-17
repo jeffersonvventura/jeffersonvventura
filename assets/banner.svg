@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1020"/>
+      <stop offset="0.55" stop-color="#111a33"/>
+      <stop offset="1" stop-color="#1b1240"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="0.12" cy="0.1" r="0.6">
+      <stop offset="0" stop-color="#2563eb" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#2563eb" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0.92" cy="0.95" r="0.55">
+      <stop offset="0" stop-color="#7c3aed" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#7c3aed" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity="0.04"/>
+    </pattern>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="280" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="280" rx="18" fill="url(#glow1)"/>
+  <rect width="1200" height="280" rx="18" fill="url(#glow2)"/>
+  <rect width="1200" height="280" rx="18" fill="url(#grid)"/>
+
+  <!-- rede decorativa -->
+  <g stroke="#94a3b8" stroke-opacity="0.25" stroke-width="1.2">
+    <line x1="880" y1="70" x2="980" y2="120"/><line x1="980" y1="120" x2="1080" y2="80"/>
+    <line x1="980" y1="120" x2="1010" y2="200"/><line x1="1010" y1="200" x2="1120" y2="180"/>
+    <line x1="880" y1="70" x2="900" y2="170"/><line x1="900" y1="170" x2="1010" y2="200"/>
+    <line x1="1080" y1="80" x2="1120" y2="180"/><line x1="900" y1="170" x2="840" y2="220"/>
+  </g>
+  <g>
+    <circle cx="980" cy="120" r="10" fill="#f97316"/>
+    <circle cx="880" cy="70" r="6" fill="#22d3ee"/>
+    <circle cx="1080" cy="80" r="7" fill="#a78bfa"/>
+    <circle cx="1010" cy="200" r="9" fill="#22c55e"/>
+    <circle cx="1120" cy="180" r="5" fill="#f472b6"/>
+    <circle cx="900" cy="170" r="6" fill="#22d3ee"/>
+    <circle cx="840" cy="220" r="4" fill="#facc15"/>
+  </g>
+
+  <g font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif">
+    <text x="64" y="108" fill="#f8fafc" font-size="52" font-weight="700">Jefferson Ventura</text>
+    <rect x="66" y="128" width="120" height="4" rx="2" fill="url(#accent)"/>
+    <text x="64" y="172" fill="#cbd5e1" font-size="22">Desenvolvedor Full Stack · IA &amp; Automação · Análise de Dados · Perícia Digital</text>
+    <text x="64" y="214" fill="#94a3b8" font-size="18">Ferramentas que transformam processos complexos em experiências simples.</text>
+  </g>
+</svg>
